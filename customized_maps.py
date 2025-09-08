@@ -104,7 +104,7 @@ params = {'layers':
                }
           }
 
-plot = prettymaps.plot((34.61270572183845, 112.39602672401526),
+plot = prettymaps.plot((34.61270572183845, 112.39602672401526), #extract location query from Google map
                        radius=2500,
                        layers=params["layers"],
                        style=params['style'])
@@ -114,4 +114,5 @@ plt.savefig('High-tech Zone.png', dpi=500)
 #print(prettymaps.preset("abraca-redencao"))
 #import pandas as pd
 #df = pd.DataFrame(data)
+
 #df.to_excel('output3.xlsx', index=False)
