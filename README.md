@@ -19,24 +19,24 @@
   
 <tr>
       <td ><center><img src="/Zhengzhou.png" width="300" /><p><sub><sup>Zhengzhou, CHN</sup></sub></p><sub><sup><sup>2012-2016: High School</sup></sup></sub></center></td>
-      <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CA</sup></sub></p><sub><sup><sup>2016-2020: B.Math (Hons) Degree</sup></sup></sub></center></td>
+      <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CAN</sup></sub></p><sub><sup><sup>2016-2020: B.Math (Hons) Degree</sup></sup></sub></center></td>
       <td ><center><img src="/Beijing.png" width="300" /><p><sub><sup>Beijing, CHN</sup></sub></p><sub><sup><sup>2017: Intern at Tianhong Asset Management</sup></sup></sub></center></td>
      </tr>
 
 <tr>
-      <td ><center><img src="/Paris.png" width="300" /><p><sub><sup>Paris, FR</sup></sub></p><sub><sup><sup>2018: UNESCO Summer Workshop</sup></sup></sub></center></td>
+      <td ><center><img src="/Paris.png" width="300" /><p><sub><sup>Paris, FRA</sup></sub></p><sub><sup><sup>2018: UNESCO Summer Workshop</sup></sup></sub></center></td>
       <td ><center><img src="/Hong Kong.png" width="300" /><p><sub><sup>Hong Kong, CHN</sup></sub></p><sub><sup><sup>2019: Intern at PwC</sup></sup></sub></center></td>
-      <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CA</sup></sub></p><sub><sup><sup>2020-2021: Master's Study</sup></sup></sub></center></td>
+      <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CAN</sup></sub></p><sub><sup><sup>2020-2021: Master's Study</sup></sup></sub></center></td>
      </tr>
 
 <tr>
-      <td ><center><img src="/Toronto.png" width="300" /><p><sub><sup>Toronto, CA</sup></sub></p><sub><sup><sup>2021: Coop at RBC</sup></sup></sub></center></td>
+      <td ><center><img src="/Toronto.png" width="300" /><p><sub><sup>Toronto, CAN</sup></sub></p><sub><sup><sup>2021: Coop at RBC</sup></sup></sub></center></td>
       <td ><center><img src="/Luoyang.png" width="300" /><p><sub><sup>Luoyang, CHN</sup></sub></p><sub><sup><sup>2021-2022: Part-time RA for Local Government</sup></sup></sub></center></td>
-      <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CA</sup></sub></p><sub><sup><sup>2022-2024: MQF Degree Completed</sup></sup></sub></center></td>
+      <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CAN</sup></sub></p><sub><sup><sup>2022-2024: MQF Degree Completed</sup></sup></sub></center></td>
      </tr>
 
 <tr>
-      <td ><center><img src="/Tokyo.png" width="300" /><p><sub><sup>Tokyo, JAP</sup></sub></p><sub><sup><sup>2023: Zen Meditation Practice</sup></sup></sub></center></td>
+      <td ><center><img src="/Tokyo.png" width="300" /><p><sub><sup>Tokyo, JPN</sup></sub></p><sub><sup><sup>2023: Zen Meditation Practice</sup></sup></sub></center></td>
       <td ><center><img src="/Bangkok.png" width="300" /><p><sub><sup>Bangkok, THA</sup></sub></p><sub><sup><sup>2024: Volunteer for UN Vesak Event</sup></sup></sub></center></td>
       <td ><center><img src="/High-tech Zone.png" width="300" /><p><sub><sup>Luoyang, CHN</sup></sub></p><sub><sup><sup>2024-2025: Freelance Consultant for Startups</sup></sup></sub></center></td>
      </tr>
