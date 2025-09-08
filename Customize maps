@@ -104,7 +104,7 @@ params = {'layers':
                }
           }
 
-plot = prettymaps.plot((34.61270572183845, 112.39602672401526), #extarct location query from Google map
+plot = prettymaps.plot((34.61270572183845, 112.39602672401526), #extract location query from Google map
                        radius=2500,
                        layers=params["layers"],
                        style=params['style'])
