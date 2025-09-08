@@ -44,10 +44,10 @@
 
 <br/>
 <br/>
-<h2 align="center"> We Build The Systems That Build Us
+<h2 align="center"> "We Build The Systems That Build Us"
 <br/>
 <br/>
 <p align="center">
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYwM3pyZm0waG8yaTVia2ozMGtmaDJyczdjbW1zM3B4OW14dXluMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U29zwBYWViOC7QBlJy/giphy.gif">
-<h4 align="center"> We design technological, social, and political systems that, in turn, shape human potential. Each indivisual is responsible for making the system more colloborative and enabling. I strive to code this principle into reality with every team I join.
+<h3 align="center"> We design technological, social, and political systems that, in turn, shape human potential. Each indivisual is responsible for making the system more colloborative and enabling. I strive to code this principle into reality with every team I join.
 </p>
