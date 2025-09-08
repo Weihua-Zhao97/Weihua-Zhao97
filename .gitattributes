@@ -1,1 +1,2 @@
-*.html linguist-detectable=True
+*.md linguist-documentation=false
+*.md linguist-detectable
