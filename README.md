@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-<h2 align="center"> 🌱 My Professional Path
+<h2 align="center"> :pushpin: An Overoview of My Professional Path
 <br/>
 <br/>
 
@@ -20,17 +20,17 @@
 <tr>
       <td ><center><img src="/Zhengzhou.png" width="300" /><p><sub><sup>Zhengzhou, CHN</sup></sub></p><sub><sup><sup>2012-2016: High School</sup></sup></sub></center></td>
       <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CAN</sup></sub></p><sub><sup><sup>2016-2020: B.Math (Hons) Degree</sup></sup></sub></center></td>
-      <td ><center><img src="/Beijing.png" width="300" /><p><sub><sup>Beijing, CHN</sup></sub></p><sub><sup><sup>2017: Intern at Tianhong Asset Management</sup></sup></sub></center></td>
+      <td ><center><img src="/Beijing.png" width="300" /><p><sub><sup>Beijing, CHN</sup></sub></p><sub><sup><sup>2017: Fall Intern at Tianhong Asset Management</sup></sup></sub></center></td>
      </tr>
 
 <tr>
       <td ><center><img src="/Paris.png" width="300" /><p><sub><sup>Paris, FRA</sup></sub></p><sub><sup><sup>2018: UNESCO Summer Workshop</sup></sup></sub></center></td>
-      <td ><center><img src="/Hong Kong.png" width="300" /><p><sub><sup>Hong Kong, CHN</sup></sub></p><sub><sup><sup>2019: Intern at PwC</sup></sup></sub></center></td>
+      <td ><center><img src="/Hong Kong.png" width="300" /><p><sub><sup>Hong Kong, CHN</sup></sub></p><sub><sup><sup>2019: Winter Intern at PwC</sup></sup></sub></center></td>
       <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CAN</sup></sub></p><sub><sup><sup>2020-2021: Master's Study</sup></sup></sub></center></td>
      </tr>
 
 <tr>
-      <td ><center><img src="/Toronto.png" width="300" /><p><sub><sup>Toronto, CAN</sup></sub></p><sub><sup><sup>2021: Coop at RBC</sup></sup></sub></center></td>
+      <td ><center><img src="/Toronto.png" width="300" /><p><sub><sup>Toronto, CAN</sup></sub></p><sub><sup><sup>2021: Summer Coop at RBC</sup></sup></sub></center></td>
       <td ><center><img src="/Luoyang.png" width="300" /><p><sub><sup>Luoyang, CHN</sup></sub></p><sub><sup><sup>2021-2022: Part-time RA for Local Government</sup></sup></sub></center></td>
       <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CAN</sup></sub></p><sub><sup><sup>2022-2024: MQF Degree Completed</sup></sup></sub></center></td>
      </tr>
@@ -43,5 +43,3 @@
   
 </table>
 </p>
-
-
