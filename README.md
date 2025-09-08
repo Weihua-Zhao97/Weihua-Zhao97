@@ -38,7 +38,7 @@
 <tr>
       <td ><center><img src="/Tokyo.png" width="300" /><p><sub><sup>Tokyo, JAP</sup></sub></p><sub><sup><sup>2023: Zen Meditation Practice</sup></sup></sub></center></td>
       <td ><center><img src="/Bangkok.png" width="300" /><p><sub><sup>Bangkok, THA</sup></sub></p><sub><sup><sup>2024: Volunteer for UN Vesak Event</sup></sup></sub></center></td>
-      <td ><center><img src="/Luoyang.png" width="300" /><p><sub><sup>Luoyang, CHN</sup></sub></p><sub><sup><sup>2024-2025: Freelance Consultant for Startups</sup></sup></sub></center></td>
+      <td ><center><img src="/High-tech Zone.png" width="300" /><p><sub><sup>Luoyang, CHN</sup></sub></p><sub><sup><sup>2024-2025: Freelance Consultant for Startups</sup></sup></sub></center></td>
      </tr>
   
 </table>
