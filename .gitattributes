@@ -1,2 +1,4 @@
+*.md linguist-documentation=false
 *.md linguist-detectable
-Weihua-Zhao97/Customize maps -linguist-detectable
+** linguist-documentation=false
+** linguist-detectable
