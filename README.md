@@ -16,27 +16,27 @@
 <table>
   
 <tr>
-      <td ><center><img src="/Zhengzhou.png" width="300" /><p><sub><sup>Zhengzhou, CHN</sup></sub></p><sub><sup><sup>2012-2016: High School</sup></sup></sub></center></td>
-      <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CAN</sup></sub></p><sub><sup><sup>2016-2020: B.Math (Hons) Degree</sup></sup></sub></center></td>
-      <td ><center><img src="/Beijing.png" width="300" /><p><sub><sup>Beijing, CHN</sup></sub></p><sub><sup><sup>2017: Fall Intern at Tianhong Asset Management</sup></sup></sub></center></td>
+      <td ><center><img src="/Zhengzhou.png" width="300" /><p><sub><sup>Zhengzhou, CN</sup></sub></p><sub><sup><sup>2012-2016: High School</sup></sup></sub></center></td>
+      <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CA</sup></sub></p><sub><sup><sup>2016-2020: B.Math (Hons) Degree</sup></sup></sub></center></td>
+      <td ><center><img src="/Beijing.png" width="300" /><p><sub><sup>Beijing, CN</sup></sub></p><sub><sup><sup>2017: Fall Intern at Tianhong Asset Management</sup></sup></sub></center></td>
      </tr>
 
 <tr>
-      <td ><center><img src="/Paris.png" width="300" /><p><sub><sup>Paris, FRA</sup></sub></p><sub><sup><sup>2018: UNESCO Summer Workshop</sup></sup></sub></center></td>
-      <td ><center><img src="/Hong Kong.png" width="300" /><p><sub><sup>Hong Kong, CHN</sup></sub></p><sub><sup><sup>2019: Winter Intern at PwC</sup></sup></sub></center></td>
-      <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CAN</sup></sub></p><sub><sup><sup>2020-2021: Master's Study</sup></sup></sub></center></td>
+      <td ><center><img src="/Paris.png" width="300" /><p><sub><sup>Paris, FR</sup></sub></p><sub><sup><sup>2018: UNESCO Summer Workshop</sup></sup></sub></center></td>
+      <td ><center><img src="/Hong Kong.png" width="300" /><p><sub><sup>Hong Kong, CN</sup></sub></p><sub><sup><sup>2019: Winter Intern at PwC</sup></sup></sub></center></td>
+      <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CA</sup></sub></p><sub><sup><sup>2020-2021: Master's Study</sup></sup></sub></center></td>
      </tr>
 
 <tr>
-      <td ><center><img src="/Toronto.png" width="300" /><p><sub><sup>Toronto, CAN</sup></sub></p><sub><sup><sup>2021: Summer Coop at RBC</sup></sup></sub></center></td>
-      <td ><center><img src="/Luoyang.png" width="300" /><p><sub><sup>Luoyang, CHN</sup></sub></p><sub><sup><sup>2021-2022: Part-time RA for Local Government</sup></sup></sub></center></td>
-      <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CAN</sup></sub></p><sub><sup><sup>2022-2024: MQF Degree Completed</sup></sup></sub></center></td>
+      <td ><center><img src="/Toronto.png" width="300" /><p><sub><sup>Toronto, CA </sup></sub></p><sub><sup><sup>2021: Summer Coop at RBC</sup></sup></sub></center></td>
+      <td ><center><img src="/Luoyang.png" width="300" /><p><sub><sup>Luoyang, CN</sup></sub></p><sub><sup><sup>2021-2022: Part-time RA for Local Government</sup></sup></sub></center></td>
+      <td ><center><img src="/Waterloo.png" width="300" /><p><sub><sup>Waterloo, CA</sup></sub></p><sub><sup><sup>2022-2024: MQF Degree Completed</sup></sup></sub></center></td>
      </tr>
 
 <tr>
-      <td ><center><img src="/Tokyo.png" width="300" /><p><sub><sup>Tokyo, JPN</sup></sub></p><sub><sup><sup>2023: Zen Meditation Practice</sup></sup></sub></center></td>
-      <td ><center><img src="/Bangkok.png" width="300" /><p><sub><sup>Bangkok, THA</sup></sub></p><sub><sup><sup>2024: Volunteer for UN Vesak Event</sup></sup></sub></center></td>
-      <td ><center><img src="/High-tech Zone.png" width="300" /><p><sub><sup>Luoyang, CHN</sup></sub></p><sub><sup><sup>2024-2025: Freelance Consultant for Startups</sup></sup></sub></center></td>
+      <td ><center><img src="/Tokyo.png" width="300" /><p><sub><sup>Tokyo, JP</sup></sub></p><sub><sup><sup>2023: Zen Meditation Practice</sup></sup></sub></center></td>
+      <td ><center><img src="/Bangkok.png" width="300" /><p><sub><sup>Bangkok, TH</sup></sub></p><sub><sup><sup>2024: Volunteer for UN Vesak Event</sup></sup></sub></center></td>
+      <td ><center><img src="/High-tech Zone.png" width="300" /><p><sub><sup>Luoyang, CN</sup></sub></p><sub><sup><sup>2024-2025: Freelance Consultant for Startups</sup></sup></sub></center></td>
      </tr>
   
 </table>
@@ -47,6 +47,7 @@
 <h2 align="center"> "We Build The Systems That Build Us"
 <br/>
 <br/>
+
 <p align="center">
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYwM3pyZm0waG8yaTVia2ozMGtmaDJyczdjbW1zM3B4OW14dXluMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U29zwBYWViOC7QBlJy/giphy.gif">
 <h4 align="justify"> We design technological, social, and political systems that, in turn, shape human potential. Each indivisual is responsible for making the system more colloborative and enabling. I strive to code this principle into reality with every team I join.
