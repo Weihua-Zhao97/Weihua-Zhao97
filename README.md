@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-<h2 align="center"> :pushpin: An Overoview of My Professional Path
+<h2 align="center"> :pushpin: An Overview of My Professional Development Path
 <br/>
 <br/>
 
@@ -45,7 +45,7 @@
 
 <br/>
 <br/>
-<h2 align="center"> "We Build The Systems That Build Us"
+<h2 align="center"> "We Build the Systems That Build Us."
 <br/>
 <br/>
 
