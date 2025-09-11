@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-<h2 align="center"> :pushpin: An Overview of My Professional Development Path
+<h2 align="center"> :pushpin: About Me: My Professional Development Path
 <br/>
 <br/>
 
